@@ -1,3 +1,3 @@
-# Classifying-cat-and-dog-breeds
+# Differentiate between real butter chicken and its wannabe cousin
 
 ## Setup
