@@ -1,6 +1,6 @@
 # Butter Chicken
 
-Differentiate between real butter chicken and its wannabe cousin
+Differentiate between butter chicken and its wannabe cousin
 
 
 ## Data collection
